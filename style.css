@@ -1,0 +1,79 @@
+body {
+  padding-top: 90px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.tnav .navbar .container { height: 40px; }
+.redBorder,
+.greenBorder,
+.yellowBorder {
+  width: 33.33%;
+  float: left;
+  height: 8px;
+}
+.redBorder {
+  background-color: #f33e6f;
+}
+.greenBorder {
+  background-color: #46bfbd;
+}
+.yellowBorder {
+  background-color: #fdb45c;
+}
+.key {
+  color: grey;
+}
+.value {
+	color : black;
+}
+
+/*
+* {
+  -webkit-user-select: none;
+}
+
+body {
+  background-image: url('images/htmlbg.png')
+}
+
+.files {
+  padding: 0;
+  margin: 0;
+}
+
+.file {
+  padding: 2px;
+  margin: 2px;
+  width: 80px;
+  display: inline-block;
+
+  text-align: center;
+  vertical-align: top;
+}
+
+.file.focus {
+  background-color: #08C;
+  -webkit-border-radius: 4px;
+}
+
+.file .name {
+  width: 80px;
+  word-wrap: break-word;
+}
+
+.file.focus .name {
+  color: white;
+}
+
+.file .icon {
+  margin: auto;
+  margin-top: 0;
+  width: 60px;
+}
+
+.file.focus .icon {
+  -webkit-filter: invert(20%);
+}
+*/
